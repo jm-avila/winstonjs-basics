@@ -1,0 +1,10 @@
+{"message":"Application started on http://localhost:3000","level":"info","service":"winston-service","label":"Custom Label","timestamp":"2020-08-06T11:18:47.536Z"}
+{"message":"/error","level":"info","service":"winston-service","label":"Custom Label","timestamp":"2020-08-06T11:18:52.302Z"}
+{"service":"winston-service","endpoint":"/error","level":"info","message":"server.handler.begun","label":"Custom Label","timestamp":"2020-08-06T11:18:52.303Z"}
+{"service":"winston-service","endpoint":"/error","level":"error","message":"server.handler.failed","label":"Custom Label","timestamp":"2020-08-06T11:18:52.304Z"}
+{"message":"/success","level":"info","service":"winston-service","label":"Custom Label","timestamp":"2020-08-06T11:18:55.674Z"}
+{"service":"winston-service","endpoint":"/success","level":"info","message":"server.handler.begun","label":"Custom Label","timestamp":"2020-08-06T11:18:55.674Z"}
+{"message":"Application started on http://localhost:3000","level":"info","service":"winston-service","label":"Custom Label","timestamp":"2020-08-06T11:23:11.984Z"}
+{"message":"/success","level":"info","service":"winston-service","label":"Custom Label","timestamp":"2020-08-06T11:23:21.574Z"}
+{"service":"winston-service","endpoint":"/success","level":"info","message":"server.handler.begun","label":"Custom Label","timestamp":"2020-08-06T11:23:21.576Z"}
+{"message":"Application started on http://localhost:3000","level":"info","service":"winston-service","label":"Custom Label","timestamp":"2020-08-06T12:59:17.383Z"}
